@@ -5,6 +5,7 @@ Please note:
 
 - This repository **only contains the experimental code for DMTree**.
 - For artifact evaluation (AE) materials and setup instructions, please refer to the following repository: https://github.com/muouim/aefast26.
+- For the extended version, which extends the compute-side collaborative design to the full memory-access path, covering index retrieval with DMTree, collaborative data caching with DMCache, and a recovery mechanism for compute server failures, please refer to https://github.com/muouim/DMTree-Extend.
 
 ## Prerequisites
 
